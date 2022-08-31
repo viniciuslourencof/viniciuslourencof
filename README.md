@@ -27,7 +27,6 @@ Sou desenvolvedor front-end e trabalho como desenvolvedor em Delphi a 3 anos, co
 </a>
 
 [website]: https://www.linkedin.com/in/viniciuslourencof/
-[instagram]: https://www.instagram.com/viniciuslourenco.f/
 [linkedin]: https://www.linkedin.com/in/viniciuslourencof/
 <br>
 
