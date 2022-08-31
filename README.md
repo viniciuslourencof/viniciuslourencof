@@ -1,10 +1,10 @@
-## Olá 👋
+## 👋 Olá 
 
 Gosto de aprender novas tecnologias e trabalhar com ideias inovadoras!
 
 ## 😃 Mais sobre mim
 
-Trabalho como desenvolvedor em Delphi a 3 anos, com conhecimentos amplos em SQL. No momento, estou estudando desenvolvimento web front-end e cursando o penúltimo semestre da faculdade de Análise e Desenvolvimento de Sistemas. Amo programar e estou sempre buscando novos aprendizados!
+Sou desenvolvedor front-end e trabalho como desenvolvedor em Delphi a 3 anos, com conhecimentos amplos em SQL. No momento, estou cursando o penúltimo semestre da faculdade de Análise e Desenvolvimento de Sistemas. Amo programar e estou sempre buscando novos aprendizados!
 
 ## 🚀 Minhas Skills
 
