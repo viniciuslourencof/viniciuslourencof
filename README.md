@@ -26,9 +26,9 @@ Trabalho como desenvolvedor em Delphi a 3 anos, com conhecimentos amplos em SQL.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuslourencof&show_icons=true&theme=dracula&line_height=27" alt="**Vinicius Lourenço** github stats"/>
 </a>
 
-[website]: https://www.linkedin.com/in/vinicius-louren%C3%A7o-068723233/
+[website]: https://www.linkedin.com/in/viniciuslourencof/
 [instagram]: https://www.instagram.com/viniciuslourenco.f/
-[linkedin]: https://www.linkedin.com/in/vinicius-louren%C3%A7o-068723233/
+[linkedin]: https://www.linkedin.com/in/viniciuslourencof/
 <br>
 
 ## 🌎  Onde me encontrar:
