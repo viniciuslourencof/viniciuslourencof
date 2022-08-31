@@ -33,5 +33,4 @@ Sou desenvolvedor front-end e trabalho como desenvolvedor em Delphi a 3 anos, co
 ## 🌎 Onde me encontrar:
 
 🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
