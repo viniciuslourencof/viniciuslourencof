@@ -18,7 +18,7 @@ Sou desenvolvedor front-end e trabalho como desenvolvedor em Delphi a 3 anos, co
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<a href="https://github.com/viniciuslourencof">
+<a href="https://github.com/viniciuslourencof" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslourencof&theme=dracula&hide_langs_below=1" />
 </a>
 
