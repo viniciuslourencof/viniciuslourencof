@@ -26,7 +26,7 @@ Sou desenvolvedor front-end e trabalho como desenvolvedor em Delphi a 3 anos, co
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuslourencof&show_icons=true&theme=dracula&line_height=27" alt="**Vinicius Lourenço** github stats"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=viniciuslourencof&theme=dracula)](https://git.io/streak-stats)
 
 
 [website]: https://www.linkedin.com/in/viniciuslourencof/
