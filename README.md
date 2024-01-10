@@ -1,20 +1,20 @@
-## 👋 Olá 
+
+
+
+## 👋 Olá, sou o Vinicius 
 
 Gosto de aprender novas tecnologias e trabalhar com ideias inovadoras!
 
-## 😃 Mais sobre mim
-
-Atuo com desenvolvimento desenvolvimento de sistemas a 4 anos utilizando a Linguagem Delphi e o banco de dados SQL Server. Trabalhei criando novas funcionalidades e dando manutenção em recursos já existentes para um sistema de gestão empresarial.
-
 ## 🚀 Minhas habilidades
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+![delphi](https://img.shields.io/badge/java_springboot-gray?style=for-the-badge&logo=springboot&logoColor=green)
+![java](https://img.shields.io/badge/delphi-gray?style=for-the-badge&logo=delphi&logoColor=red)
+![c#](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=csharp&logoColor=purple)
+![react](https://img.shields.io/badge/react-gray?style=for-the-badge&logo=react&logoColor=blue)
+![vuejs](https://img.shields.io/badge/vuejs-gray?style=for-the-badge&logo=vuedotjs&logoColor=blue)
+![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=orange)
+![sql](https://img.shields.io/badge/SQL_Server-gray?style=for-the-badge&logo=microsoftsqlserver&logoColor=yellow)
+
 
 ## ⭐ Informações sobre minha conta GitHub
 
@@ -28,12 +28,9 @@ Atuo com desenvolvimento desenvolvimento de sistemas a 4 anos utilizando a Lingu
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=viniciuslourencof&theme=dracula)](https://git.io/streak-stats)
 
-
-[website]: https://www.linkedin.com/in/viniciuslourencof/
-[linkedin]: https://www.linkedin.com/in/viniciuslourencof/
-<br>
-
 ## 🌎 Onde me encontrar:
 
-🏡 [website][website] **|** 
-👔 [linkedin][linkedin]
+[![LinkedIn](https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/viniciuslourencof/)
+
+
+
