@@ -5,7 +5,7 @@
 
 Gosto de aprender novas tecnologias e trabalhar com ideias inovadoras!
 
-## 🚀 Minhas habilidades
+## 🚀 Minhas habilidades:
 
 ![delphi](https://img.shields.io/badge/java_springboot-gray?style=for-the-badge&logo=springboot&logoColor=green)
 ![java](https://img.shields.io/badge/delphi-gray?style=for-the-badge&logo=delphi&logoColor=red)
@@ -16,7 +16,7 @@ Gosto de aprender novas tecnologias e trabalhar com ideias inovadoras!
 ![sql](https://img.shields.io/badge/SQL_Server-gray?style=for-the-badge&logo=microsoftsqlserver&logoColor=yellow)
 
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Informações sobre minha conta GitHub:
 
 <a href="https://github.com/viniciuslourencof" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslourencof&theme=dracula&hide_langs_below=1" />
