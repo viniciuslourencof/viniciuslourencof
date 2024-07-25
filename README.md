@@ -7,13 +7,13 @@ Gosto de aprender novas tecnologias e trabalhar com ideias inovadoras!
 
 ## 🚀 Minhas habilidades:
 
-![delphi](https://img.shields.io/badge/java_springboot-gray?style=for-the-badge&logo=springboot&logoColor=green)
 ![java](https://img.shields.io/badge/delphi-gray?style=for-the-badge&logo=delphi&logoColor=red)
 ![php](https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php&logoColor=blue)
 ![python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=purple)
+![delphi](https://img.shields.io/badge/java_springboot-gray?style=for-the-badge&logo=springboot&logoColor=green)
 ![react](https://img.shields.io/badge/react-gray?style=for-the-badge&logo=react&logoColor=blue)
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=orange)
-![sql](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=sql&logoColor=white)
+![sql](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=sqlserver&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-gray?style=for-the-badge&logo=aws&logoColor=white)
 
 ## ⭐ Informações sobre minha conta GitHub:
