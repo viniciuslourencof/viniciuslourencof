@@ -14,7 +14,7 @@ Gosto de aprender novas tecnologias e trabalhar com ideias inovadoras!
 ![react](https://img.shields.io/badge/react-gray?style=for-the-badge&logo=react&logoColor=blue)
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=orange)
 ![sql](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=sqlserver&logoColor=white)
-![aws](https://img.shields.io/badge/#232F3E-gray?style=for-the-badge&logo=#232F3E&logoColor=white)
+![aws](https://img.shields.io/badge/232F3E-gray?style=for-the-badge&logo=232F3E&logoColor=white)
 
 ## ⭐ Informações sobre minha conta GitHub:
 
