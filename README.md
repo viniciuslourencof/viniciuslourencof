@@ -10,7 +10,7 @@ Gosto de aprender novas tecnologias e trabalhar com ideias inovadoras!
 ![java](https://img.shields.io/badge/java_springboot-gray?style=for-the-badge&logo=springboot&logoColor=green)
 ![php](https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php&logoColor=blue)
 ![delphi](https://img.shields.io/badge/delphi-gray?style=for-the-badge&logo=delphi&logoColor=red)
-![react](https://img.shields.io/badge/react-gray?style=for-the-badge&logo=typescript&logoColor=blue)
+![typescript](https://img.shields.io/badge/react-gray?style=for-the-badge&logo=typescript&logoColor=blue)
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=orange)
 ![aws](https://img.shields.io/badge/aws-gray?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
