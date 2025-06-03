@@ -11,7 +11,7 @@ Gosto de aprender novas tecnologias e trabalhar com ideias inovadoras!
 ![typescript](https://img.shields.io/badge/typescript-gray?style=for-the-badge&logo=typescript&logoColor=blue)
 ![java](https://img.shields.io/badge/java_springboot-gray?style=for-the-badge&logo=springboot&logoColor=green)
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=orange)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-gray?style=for-the-badge)
 
 ## ⭐ Informações sobre minha conta GitHub:
 
